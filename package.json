@@ -16,7 +16,7 @@
     "react-dom": "^18.2.0",
     "@next/font": "14.2.15",
     "@next/codemod":"15.1.6",
-    "react-hook-form": "^7.55.0"
+    "react-hook-form": "^7.0.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
